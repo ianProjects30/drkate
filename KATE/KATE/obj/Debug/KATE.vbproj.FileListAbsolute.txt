@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\vb.net\KATE\KATE\bin\Debug\KATE.exe.config
+C:\Users\ACER\Desktop\vb.net\KATE\KATE\bin\Debug\KATE.exe
+C:\Users\ACER\Desktop\vb.net\KATE\KATE\bin\Debug\KATE.pdb
+C:\Users\ACER\Desktop\vb.net\KATE\KATE\bin\Debug\KATE.xml
+C:\Users\ACER\Desktop\vb.net\KATE\KATE\bin\Debug\mysql.data.dll
+C:\Users\ACER\Desktop\vb.net\KATE\KATE\obj\Debug\KATE.vbproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\vb.net\KATE\KATE\obj\Debug\KATE.Form1.resources
+C:\Users\ACER\Desktop\vb.net\KATE\KATE\obj\Debug\KATE.Resources.resources
+C:\Users\ACER\Desktop\vb.net\KATE\KATE\obj\Debug\KATE.vbproj.GenerateResource.cache
+C:\Users\ACER\Desktop\vb.net\KATE\KATE\obj\Debug\KATE.vbproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\vb.net\KATE\KATE\obj\Debug\KATE.vbproj.CopyComplete
+C:\Users\ACER\Desktop\vb.net\KATE\KATE\obj\Debug\KATE.exe
+C:\Users\ACER\Desktop\vb.net\KATE\KATE\obj\Debug\KATE.xml
+C:\Users\ACER\Desktop\vb.net\KATE\KATE\obj\Debug\KATE.pdb
+C:\Users\ACER\Desktop\vb.net\KATE\KATE\obj\Debug\KATE.CURRENT_MED.resources
